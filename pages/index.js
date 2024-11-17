@@ -1,8 +1,7 @@
 function Home(){
-    return <h1>
-        Você prefere empanadas num restaurante chileno ou pad thai num restaurante vietnamita?
-        Eu já conferi e os dois tem opções vegetarianas :))
-    </h1>
+    return <p>
+        esquecemos de combinar o dia e horário pra irmos comer um pad thai, pensei em jantarmos na semana, que tal? Final de semana eu vou viajar.
+    </p>
 }
 
 export default Home
